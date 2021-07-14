@@ -14,7 +14,8 @@ body {
     font-family: 'Roboto', sans-serif;
     border-radius: 1em;
     font-size: 1.3em;
-    box-shadow: 1px 1px 1px 1px rgba(101, 223, 235, 0.986);;
+    box-shadow: 1px 1px 1px 1px rgba(101, 223, 235, 0.986);
+    margin-top: 100px
 
 }
 
